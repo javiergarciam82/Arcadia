@@ -1,90 +1,4 @@
 @media screen and (max-width: 768px) {
-/*coverinner*/
-.img_editorial004{background-image: url(editorial004.jpg);}
-.img_primerafila {background-image: url(006primerofila.jpg);}
-.img_sugiere {background-image:url(005sugiere.jpg);}
-.img_controversia {background-image: url(006controversia.jpg);}
-.img_laultima {background-image:url(008laultima.jpg);}
-.img_saladestar {background-image:url(008saladeestar.jpg);}
-.popup_014 {background-image: url(popup_014.jpg);height: 570px;background-size:cover;} 
-.img_parallevar {background-image:url(010parallevar.jpg);}
-.img_elpasado {background-image:url(019elpasado.jpg);}
-.img-inner_artpo_1 {background-image: url(021portada_1_01.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
-.img-inner_artpo_2 {background-image: url(021portada_1_02.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
-.img_inner_artpo_3{background-image: url(024portada_3_01.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
-.img_inner_artpo_4{background-image: url(032articulo_6_03.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
-.img_portada022{background-image: url(022portada_1.jpg);}
-.img_portada024{background-image: url(024portada_3.jpg);}
-.img_portada025{background-image: url(025portada_4.jpg);}
-.img_portada026{background-image: url(026portada_5.jpg);}
-.img_portada026_1{background-image: url(026portada5_1.jpg);}
-.img_portada026_2{background-image: url(026portada5_2.jpg);}
-.img_portada026_3{background-image: url(026portada5_3.jpg);}
-.img_portada026_4{background-image: url(026portada5_4.jpg);}
-.img_portada026_5{background-image: url(026portada5_5.jpg);}
-.img_portada026_6{background-image: url(026portada5_6.jpg);}
-.img_portada026_7{background-image: url(026portada5_7.jpg);}
-.img_portada026_8{background-image: url(026portada5_8.jpg);}
-.img_portada026_9{background-image: url(026portada5_9.jpg);}
-.img_portada026_10{background-image: url(026portada5_10.jpg);}
-.img_portada026_1,
-.img_portada026_2,
-.img_portada026_3,
-.img_portada026_4,
-.img_portada026_5,
-.img_portada026_6,
-.img_portada026_7,
-.img_portada026_8,
-.img_portada026_9,
-.img_portada026_10 {height: 30vh;background-size: 100%;margin:20px 0px 30px 0px;background-repeat: no-repeat;}
-.img_outstanding022_mobil {background-image: url(022portada_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
-.img-inner_artpo_large_1 {background-image: url(023portada_1_01.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
-.img-inner_artpo_large_2 {background-image: url(023portada_1_02.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
-.img-inner_artpo_large_3 {background-image: url(024portada_1_03.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
-.img-inner_artpo_large_4 {background-image: url(032articulo_6_01.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
-.img-inner_artpo_large_5 {background-image: url(032articulo_6_02.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
-.img_articulo01{background-image: url(027articulo_1.jpg);}
-.img_articulo02{background-image: url(028articulo_1.jpg);}
-.img_outstanding_articulo28_mobil  {background-image: url(028articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
-.img_articulo03{background-image: url(029articulo_1.jpg);}
-.img_articulo04{background-image: url(030articulo_1.jpg);}
-.img_outstanding_articulo30_mobil  {background-image: url(030articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
-.img_articulo05{background-image: url(031articulo_1.jpg);}
-.img_outstanding_articulo31_mobil  {background-image: url(031articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
-.img_articulo06{background-image: url(032articulo_1.jpg);}
-.img-inner_artpo_large_6 {background-image: url(033articulo_7_1.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
-.img_articulo07{background-image: url(033articulo_1.jpg);}
-.img_outstanding_articulo33_mobil  {background-image: url(033articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
-.img_articulo08{background-image: url(034articulo_1.jpg);}
-.img_opinion011{background-image: url(sandra_borda.jpg);}
-.img_opinion012{background-image: url(andrea_mejia.jpg);} 
-.img_opinion013{background-image: url(carolina_sanin.jpg);} 
-.img_opinion014{background-image: url(antonio_caballero.jpg);} 
-.img_opinion015{background-image: url(mario_jursich.jpg);} 
-.img_opinion016{background-image: url(nicolas_morales.jpg);}
-.img_libros01{background-image: url(035libros_1.jpg);}
-.img_libros02{background-image: url(036libros_2.jpg);}
-.img_libros03{background-image: url(036libros_3.jpg);}
-.img_libros04{background-image: url(037libros_4.jpg);}
-.img_librosgil{background-image: url(036libros_1.jpg);}
-.img_crtiticasaenz{background-image: url(037critica_1.jpg);}
-.img_crtiti01{background-image: url(037critica_1.1.jpg);}
-.img_crtitihoyos{background-image: url(038critica_1.jpg);}
-.img_crtiti02{background-image: url(039critica_2.jpg);}
-.img_crtiti03{background-image: url(040critica_2.jpg);}
-.img_bandera {background-image: url(bandera.jpg);}
-.books_ptop,.books_autortop{position: absolute;top: 0;left: 0;padding: 0;margin: 0;width: 100%;}
-.books_pbottom {position: absolute;bottom: 0;left: 0;padding: 0;margin: 0 0 60px 0;width: 100%;}
-.books_pbottomobil {position:relative;bottom: 0;left: 0;padding: 0;margin: 0 0 60px 0;width: 100%;}
-.img_crtitizuluaga{background-image: url(039critica_1.jpg);}
-.img_crtitisanmiguel{background-image: url(040critica_1.jpg);}
-.books_autor {width: 100%;background-size: 100%;background-repeat: no-repeat;height: 313px;margin:0 0 0 0;padding: 0;} 
-.books_autortop h2 {font-family: 'B612', sans-serif;font-weight: 100;font-style: italic;font-size: 1.842em;background: #FFED00;text-decoration: underline;text-align: center;padding: 5px;line-height: initial;}
-.books_pbottom {display:block;}
-.books_pbottomobil{display: none;}
-.top_cinco {margin:20px 0;}
-.img_loscinco {background-image: url(041loscinco.jpg);}
-/*coverinner*/
 a {color: #212529!important;background-color: transparent;}
 .centersimbol{text-align:center;}
 .centernumber{font-weight: bold;font-family: 'Abril Fatface', cursive;font-size: 1.063rem;text-align:center;}
@@ -356,6 +270,92 @@ border-top: 1px solid #fff;
     background-repeat: no-repeat;
     position: relative
 }
+/*coverinner*/
+.img_editorial004{background-image: url(editorial004.jpg);}
+.img_primerafila {background-image: url(006primerofila.jpg);}
+.img_sugiere {background-image:url(005sugiere.jpg);}
+.img_controversia {background-image: url(006controversia.jpg);}
+.img_laultima {background-image:url(008laultima.jpg);}
+.img_saladestar {background-image:url(008saladeestar.jpg);}
+.popup_014 {background-image: url(popup_014.jpg);height: 570px;background-size:cover;} 
+.img_parallevar {background-image:url(010parallevar.jpg);}
+.img_elpasado {background-image:url(019elpasado.jpg);}
+.img-inner_artpo_1 {background-image: url(021portada_1_01.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
+.img-inner_artpo_2 {background-image: url(021portada_1_02.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
+.img_inner_artpo_3{background-image: url(024portada_3_01.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
+.img_inner_artpo_4{background-image: url(032articulo_6_03.jpg);width: 100%;height: 600px;background-position: center -600px;background-size: cover;position: relative;}
+.img_portada022{background-image: url(022portada_1.jpg);}
+.img_portada024{background-image: url(024portada_3.jpg);}
+.img_portada025{background-image: url(025portada_4.jpg);}
+.img_portada026{background-image: url(026portada_5.jpg);}
+.img_portada026_1{background-image: url(026portada5_1.jpg);}
+.img_portada026_2{background-image: url(026portada5_2.jpg);}
+.img_portada026_3{background-image: url(026portada5_3.jpg);}
+.img_portada026_4{background-image: url(026portada5_4.jpg);}
+.img_portada026_5{background-image: url(026portada5_5.jpg);}
+.img_portada026_6{background-image: url(026portada5_6.jpg);}
+.img_portada026_7{background-image: url(026portada5_7.jpg);}
+.img_portada026_8{background-image: url(026portada5_8.jpg);}
+.img_portada026_9{background-image: url(026portada5_9.jpg);}
+.img_portada026_10{background-image: url(026portada5_10.jpg);}
+.img_portada026_1,
+.img_portada026_2,
+.img_portada026_3,
+.img_portada026_4,
+.img_portada026_5,
+.img_portada026_6,
+.img_portada026_7,
+.img_portada026_8,
+.img_portada026_9,
+.img_portada026_10 {height: 30vh;background-size: 100%;margin:20px 0px 30px 0px;background-repeat: no-repeat;}
+.img_outstanding022_mobil {background-image: url(022portada_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
+.img-inner_artpo_large_1 {background-image: url(023portada_1_01.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
+.img-inner_artpo_large_2 {background-image: url(023portada_1_02.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
+.img-inner_artpo_large_3 {background-image: url(024portada_1_03.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
+.img-inner_artpo_large_4 {background-image: url(032articulo_6_01.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
+.img-inner_artpo_large_5 {background-image: url(032articulo_6_02.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
+.img_articulo01{background-image: url(027articulo_1.jpg);}
+.img_articulo02{background-image: url(028articulo_1.jpg);}
+.img_outstanding_articulo28_mobil  {background-image: url(028articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
+.img_articulo03{background-image: url(029articulo_1.jpg);}
+.img_articulo04{background-image: url(030articulo_1.jpg);}
+.img_outstanding_articulo30_mobil  {background-image: url(030articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
+.img_articulo05{background-image: url(031articulo_1.jpg);}
+.img_outstanding_articulo31_mobil  {background-image: url(031articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
+.img_articulo06{background-image: url(032articulo_1.jpg);}
+.img-inner_artpo_large_6 {background-image: url(033articulo_7_1.jpg);height: 83vh;background-position: center;background-size: cover;margin: 0;padding: 0;border: 0;display: flex;align-items: center;width: 100%;background-repeat: no-repeat;position:relative}
+.img_articulo07{background-image: url(033articulo_1.jpg);}
+.img_outstanding_articulo33_mobil  {background-image: url(033articulo_1.jpg);background-position: center;background-size: cover;height: 100vh;background-repeat: no-repeat;display: flex;justify-content: center;align-items: center;color: white;}
+.img_articulo08{background-image: url(034articulo_1.jpg);}
+.img_opinion011{background-image: url(sandra_borda.jpg);}
+.img_opinion012{background-image: url(andrea_mejia.jpg);} 
+.img_opinion013{background-image: url(carolina_sanin.jpg);} 
+.img_opinion014{background-image: url(antonio_caballero.jpg);} 
+.img_opinion015{background-image: url(mario_jursich.jpg);} 
+.img_opinion016{background-image: url(nicolas_morales.jpg);}
+.img_libros01{background-image: url(035libros_1.jpg);}
+.img_libros02{background-image: url(036libros_2.jpg);}
+.img_libros03{background-image: url(036libros_3.jpg);}
+.img_libros04{background-image: url(037libros_4.jpg);}
+.img_librosgil{background-image: url(036libros_1.jpg);}
+.img_crtiticasaenz{background-image: url(037critica_1.jpg);}
+.img_crtiti01{background-image: url(037critica_1.1.jpg);}
+.img_crtitihoyos{background-image: url(038critica_1.jpg);}
+.img_crtiti02{background-image: url(039critica_2.jpg);}
+.img_crtiti03{background-image: url(040critica_2.jpg);}
+.img_bandera {background-image: url(bandera.jpg);}
+.books_ptop,.books_autortop{position: absolute;top: 0;left: 0;padding: 0;margin: 0;width: 100%;}
+.books_pbottom {position: absolute;bottom: 0;left: 0;padding: 0;margin: 0 0 60px 0;width: 100%;}
+.books_pbottomobil {position:relative;bottom: 0;left: 0;padding: 0;margin: 0 0 60px 0;width: 100%;}
+.img_crtitizuluaga{background-image: url(039critica_1.jpg);}
+.img_crtitisanmiguel{background-image: url(040critica_1.jpg);}
+.books_autor {width: 100%;background-size: 100%;background-repeat: no-repeat;height: 313px;margin:0 0 0 0;padding: 0;} 
+.books_autortop h2 {font-family: 'B612', sans-serif;font-weight: 100;font-style: italic;font-size:1.842em;background: #FFED00;text-decoration: underline;text-align: center;padding: 5px;line-height: initial;}
+.books_pbottom {display:block;}
+.books_pbottomobil{display: none;}
+.top_cinco {margin:20px 0;}
+.img_loscinco {background-image: url(041loscinco.jpg);}
+/*coverinner*/
 .img_inner_articulo23_1{background-image: url(023reespecial_1.jpg);}
 .img_inner_articulo23_2{background-image: url(023reespecial_2.jpg);}
 .img_inner_articulo23_3{background-image: url(023reespecial_3.jpg);}
